@@ -1,0 +1,12 @@
+/*
+CSS for CodeMirror search.js
+*/
+
+.CodeMirror-dialog {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: white;
+  padding: 7px 0px 0px 50px;
+}
