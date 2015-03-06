@@ -1,7 +1,7 @@
 IPython Notebook Search and Replace With RegEx Support
 ======================
 
-IPython Notebook extension enabling search, replace, and replace all functionality with regular expression support.
+IPython Notebook extension enabling search, replace, and replace all functionality with regular expression support. **This extension works only in IPython notebook v.2.x.x.**
 
 ## Installation
 These installation instructions are for "vanilla" IPython Notebook setup. If you have themed and customized your IPython Notebook, I will assume you know how to patch this into custom.css and custom.js files.
